@@ -1,0 +1,16 @@
+.container {
+  height: 90%;
+  margin: 0 auto;
+  width: 50%;
+  border: 1px solid black;
+  overflow-y: scroll;
+}
+
+.item {
+  text-align: center;
+  vertical-align: middle;
+  height: 100px;
+  width: 99%;
+  margin: 4px auto;
+  border: 1px solid black;
+}
